@@ -1,0 +1,15 @@
+{
+  "name": "bar-gelateria-del-viale",
+  "version": "1.0.0",
+  "description": "this software  is a project,a web-application, which  is made to upgrade the services of this company \"Bar Gelateria Del Viale\" ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "BAR"
+  },
+  "author": "KRISTIAN_FILIPOSKI..",
+  "license": "ISC"
+}
